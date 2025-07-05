@@ -1,9 +1,12 @@
 # Data-Analysis-GFG
 This repository is my first repository which I'll be using till I don't get an IBM Certificate of Data Analytics.
 
+![Screenshot_5-7-2025_165628_raw githubusercontent com](https://github.com/user-attachments/assets/f0a459c3-1c52-4876-a4f5-7b8fc67936e3)
+
+
 
 # Overview
-This repository contains resources and materials to help you master data analysis using various tools and techniques. Each folder corresponds to a specific topic or project.
+This repository contains resources and materials to master data analysis using various tools and techniques. Each folder corresponds to a specific topic or project.
 
 
 # Table of Contents
